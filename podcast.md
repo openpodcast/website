@@ -13,3 +13,7 @@ our attempt to build an open source analytics platform for podcast hosts.
 - [Pocket Casts](https://pca.st/podcast/05751f90-0aad-013b-e603-0acc26574db2)
 - [RadioPublic](https://radiopublic.com/topp-the-open-podcast-podcast-8X5yd5)
 - [RSS](https://redcircle.mre.workers.dev)
+
+## Feedback
+
+Please, let us know what you think and send an email to [echo@openpodcast.dev](mailto:echo@openpodcast.dev) or contact us on [Twitter](https://twitter.com/OpenPodcastDev)
