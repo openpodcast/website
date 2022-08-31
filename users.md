@@ -1,3 +1,4 @@
 # Users
 
-If you are using openpodcast for your project, [please add it to this list here](https://github.com/openpodcast/openpodcast.github.io).
+If you are using Open Podcast for your project, click the edit button to add a
+link to your project.
