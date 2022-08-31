@@ -1,7 +1,8 @@
 # Podcast
 
-We run a podcast about the Podcast ecosystem.
-Please find the links below.
+We run a podcast called `TOPP: The Open Podcast Podcast`,
+a weekly show about the Podcast Ecosystem and
+our attempt to build an open source analytics platform for podcast hosts.
 
 ## Links
 
