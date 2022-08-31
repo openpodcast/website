@@ -1,4 +1,4 @@
-<img align="left" width="110" height="110" src="_media/icon.svg">
+<img align="left" width="110" height="110" src="_media/logo.jpg">
 
 # Documentation
 
