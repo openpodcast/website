@@ -1,8 +1,6 @@
-<img align="left" width="110" height="110" src="_media/logo.jpg">
+# Open Podcast Documentation
 
-# Documentation
-
-<br clear="both"/>
+[![Links](https://github.com/openpodcast/website/actions/workflows/ci.yml/badge.svg)](https://github.com/openpodcast/website/actions/workflows/ci.yml)
 
 This is the source code for the official documentation page of [openpodcast].
 
