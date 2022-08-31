@@ -4,7 +4,7 @@ We run a podcast called `TOPP: The Open Podcast Podcast`,
 a weekly show about the Podcast Ecosystem and
 our attempt to build an open source analytics platform for podcast hosts.
 
-## Links
+## Listen on
 
 - [Spotify](https://open.spotify.com/show/0WgG3O6LTgbGN5SQmVrNRG)
 - [Apple Music](https://podcasts.apple.com/us/podcast/topp-the-open-podcast-podcast/id1642486726)
