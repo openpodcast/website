@@ -8,6 +8,7 @@
 
 [GitHub](https://github.com/openpodcast/)
 [Get Started](#main)
+[Our Podcast](#podcast)
 
 <!-- background color -->
 

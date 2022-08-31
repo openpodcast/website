@@ -6,4 +6,4 @@ Open Podcast collects and aggregates metrics in a transparent way to make podcas
 
 ## Basic Usage
 
-todo
+Coming soon...

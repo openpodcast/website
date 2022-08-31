@@ -1,6 +1,6 @@
 ## Installation
 
-TODO: Add description on how to set up components
+Coming soon...
 
 ### Forwarder
 
@@ -9,10 +9,10 @@ See the [instructions][forwarder-instructions] in the forwarder repository.
 
 ### Importer
 
-todo
+Coming soon...
 
 ### Gateway
 
-todo
+Coming soon...
 
 [forwarder-instructions]: https://github.com/openpodcast/forwarder

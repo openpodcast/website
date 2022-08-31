@@ -1,7 +1,7 @@
-- Welcome
+- Open Podcast
 
   - [Introduction](/home.md)
-  - [Podcast](/podcast.md)
+  - [TOPP: The Open Podcast Podcast](/podcast.md)
 
 - Installation
 
