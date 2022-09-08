@@ -2,11 +2,19 @@
 
 ## High-Level Overview
 
-Open Podcast consists of a few components:
+Open Podcast consists of three main components:
 
-- [forwarder]: A proxy for podcast RSS feeds to collect additional analytics.
-- importer: Fetches metrics from platforms like Spotify and Apple Music.
-- gateway: Open metrics server that can handle POST requests based on the Open Podcast API specification.
+- [forwarder]: A proxy for podcast RSS feeds and MP3 files to collect additional data for analytics.
+- [importer](https://github.com/openpodcast/spotify-importer): Fetches and imports metrics from platforms like Spotify and Apple Music to provide a consolidated data lake for analytical data.
+- gateway: A reference implementation of a server which implements the Open Podcast API specification to collect fine grained data from podfetchers that implement the Open Podcast API.
+
+The implementaiton is three-folded and consists of:
+
+- a proof of concept or prototype which is developed as fast as possible to get feedback from potential users
+- a MVP which can be tested on first users and podcasts
+- a final version which can be used in production
+
+The following sections describe the techncal implementation of the proof of concept of the respective component.
 
 ## Forwarder
 
@@ -45,5 +53,6 @@ We have not decided on a technology stack for it yet, but it should be
 straightforward to implement in any language. We will provide a reference
 implementation for testing purposes but the specification for accepted events
 will be more important than the actual language used for implementation.
+For the first proof of concept we might use an all in one solution like Posthog or Matomo.
 
 [forwarder]: https://github.com/openpodcast/forwarder
