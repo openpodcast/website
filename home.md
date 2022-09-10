@@ -5,3 +5,15 @@ In this project we build a new open platform aiming to support the open and inde
 ## Basic Usage
 
 Coming soon...
+
+## In the meanwhile
+
+- tune in to our weekly [podcast](/podcast) to learn more about the status of the project
+- see our [plan](/how-it-works) what we want to build
+- join our development on [GitHub](https://github.com/openpodcast/)
+
+## Sponsors
+
+<a href="https://media-tech-lab.com">
+    <img src="/sponsors/mtl.png" width="200" />
+</a>
