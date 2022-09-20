@@ -1,12 +1,13 @@
 - Open Podcast
 
   - [Introduction](/home.md)
-  - [How It Works](how-it-works.md)
+  - [How It Works](/how-it-works.md)
   - [TOPP: The Open Podcast Podcast](/podcast.md)
+  - [Research](/research.md)
 
 - Installation
 
-  - [Cloudflare](install.md)
+  - [Cloudflare](/install.md)
 
 - About Us
 
