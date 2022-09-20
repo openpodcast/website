@@ -8,9 +8,9 @@ Coming soon...
 
 ## In the meantime
 
-- tune in to our weekly [podcast](/podcast) to learn more about the status of the project
-- see our [plan](/how-it-works) what we want to build
-- join our development on [GitHub](https://github.com/openpodcast/)
+- Tune in to our weekly [podcast](/podcast) to learn more about the status of the project.
+- Read our [roadmap](/how-it-works) for what we want to build.
+- Join our development on [GitHub](https://github.com/openpodcast/).
 
 ## Sponsors
 
