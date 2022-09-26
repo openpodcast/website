@@ -10,6 +10,6 @@ Wolfgang teamed up with [Matthias] and received public funding from
 [Media Tech Lab by Media Lab Bayern][mtl] to build a specification and
 a reference implementation of the project.
 
-[mtl]: https://media-tech-lab.com
+[mtl]: http://media-tech-lab.com
 [wolfgang]: https://wolfgang.gassler.org/
 [matthias]: https://endler.dev/

@@ -14,6 +14,6 @@ Coming soon...
 
 ## Sponsors
 
-<a href="https://media-tech-lab.com">
+<a href="http://media-tech-lab.com">
     <img src="/sponsors/mtl.png" width="200" />
 </a>
