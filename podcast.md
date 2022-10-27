@@ -14,6 +14,10 @@ our attempt to build an open source analytics platform for podcast hosts.
 - [RadioPublic](https://radiopublic.com/topp-the-open-podcast-podcast-8X5yd5)
 - [RSS](https://redcircle.mre.workers.dev)
 
+## Latest Episode
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/0WgG3O6LTgbGN5SQmVrNRG?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 ## Feedback
 
 Please, let us know what you think and send an email to [echo@openpodcast.dev](mailto:echo@openpodcast.dev) or contact us on [Twitter](https://twitter.com/OpenPodcastDev)
