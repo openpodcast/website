@@ -10,24 +10,38 @@
       name="viewport"
       content="width=device-width, initial-scale=1.0, minimum-scale=1.0"
     />
-    <link
-      rel="stylesheet"
-      href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css"
-    />
+    <link rel="stylesheet" href="assets/style.css" type="text/css" />
   </head>
   <body>
     <div id="app"></div>
-    <script src="//cdn.jsdelivr.net/npm/docsify-edit-on-github"></script>
+    <script src="//unpkg.com/docsify-edit-on-github@1"></script>
     <script>
       window.$docsify = {
-        logo: "/_media/logo.jpg",
-        homepage: "home.md",
+        logo: "/_media/icon.svg",
         coverpage: true,
-        name: "OpenPodcast",
+        homepage: "home.md",
+        name: "Open Podcast",
         loadSidebar: true,
         auto2top: true,
         relativePath: true,
-        themeColor: "#21a5e7",
+        darklightTheme: {
+          siteFont: "Source Sans Pro,Helvetica Neue,Arial,sans-serif",
+          dark: {
+            textColor: "#fff",
+            accent: "#009ddf",
+            coverBackground: "#0c2236",
+            borderColor: "#0d2538",
+            highlightColor: "#EA3A97",
+            toogleImage:
+              "url(https://unpkg.com/docsify-darklight-theme@3/icons/sun.svg)",
+          },
+          light: {
+            accent: "#009ddf",
+            coverBackground: "white",
+            toogleImage:
+              "url(https://unpkg.com/docsify-darklight-theme@3/icons/moon.svg)",
+          },
+        },
         plugins: [
           EditOnGithubPlugin.create(
             "https://github.com/openpodcast/website/blob/main/",
@@ -35,9 +49,28 @@
             "Edit on GitHub"
           ),
         ],
+        search: "auto", // default
+
+        // complete configuration parameters
+        search: {
+          maxAge: 86400000, // Expiration time, the default one day
+          paths: "auto",
+          placeholder: "Type to search docs",
+          noData: "No Results!",
+          // Headline depth, 1 - 6
+          depth: 6,
+          hideOtherSidebarContent: false, // whether or not to hide other sidebar content
+        },
       };
     </script>
-    <!-- Docsify v4 -->
-    <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+    <script src="//unpkg.com/docsify@4"></script>
+    <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
+    <script src="//unpkg.com/docsify-copy-code@2"></script>
+    <script src="//unpkg.com/prismjs@1/components/prism-yaml.min.js"></script>
+    <script src="//unpkg.com/prismjs@1/components/prism-rust.min.js"></script>
+    <script src="//unpkg.com/prismjs@1/components/prism-bash.min.js"></script>
+    <script src="//unpkg.com/prismjs@1/components/prism-toml.min.js"></script>
+    <script src="//unpkg.com/docsify-plugin-flexible-alerts@1"></script>
+    <script src="//unpkg.com/docsify-darklight-theme@3/dist/index.min.js"></script>
   </body>
 </html>

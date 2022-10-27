@@ -1,4 +1,4 @@
-![openpodcast](_media/logo.jpg)
+![openpodcast](_media/logo.svg)
 
 > An open platform for podcast analytics
 

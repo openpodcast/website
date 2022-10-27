@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="108.61378mm"
+   height="20.044161mm"
+   viewBox="0 0 108.61378 20.044161"
+   version="1.1"
+   id="svg848"
+   inkscape:version="1.2.1 (9c6d41e, 2022-07-14)"
+   sodipodi:docname="logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview850"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.2102413"
+     inkscape:cx="589.79848"
+     inkscape:cy="230.68731"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="1728"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs845" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(226.03626,-87.509699)">
+    <g
+       id="g1082"
+       transform="matrix(0.16432253,0,0,0.16432253,-188.89341,73.129884)">
+      <g
+         id="g819"
+         inkscape:export-filename="openpodcast_logo.png"
+         inkscape:export-xdpi="70"
+         inkscape:export-ydpi="70"
+         transform="translate(-3370.2989,-1739.8617)">
+        <path
+           style="fill:none;fill-opacity:1;stroke:#21a5e7;stroke-width:11.4647;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+           id="path1390"
+           sodipodi:type="arc"
+           sodipodi:cx="3196.2197"
+           sodipodi:cy="1897.3953"
+           sodipodi:rx="46.223557"
+           sodipodi:ry="46.223557"
+           sodipodi:start="0.34194524"
+           sodipodi:end="4.3146874"
+           sodipodi:arc-type="arc"
+           d="m 3239.7671,1912.895 a 46.223557,46.223557 0 0 1 -47.9502,30.5137 46.223557,46.223557 0 0 1 -41.2937,-39.0532 46.223557,46.223557 0 0 1 27.7941,-49.5762"
+           sodipodi:open="true"
+           inkscape:export-filename="openpodcast.png"
+           inkscape:export-xdpi="70"
+           inkscape:export-ydpi="70" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#21a5e7;stroke-width:11.4647;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+           id="path1392"
+           sodipodi:type="arc"
+           sodipodi:cx="3196.2195"
+           sodipodi:cy="1897.3956"
+           sodipodi:rx="28.037527"
+           sodipodi:ry="28.037729"
+           sodipodi:start="0.65150879"
+           sodipodi:end="4.1059313"
+           sodipodi:arc-type="arc"
+           d="m 3218.5141,1914.3973 a 28.037527,28.037729 0 0 1 -28.7462,10.2837 28.037527,28.037729 0 0 1 -21.0964,-22.0691 28.037527,28.037729 0 0 1 11.5677,-28.2541"
+           sodipodi:open="true" />
+        <path
+           style="color:#000000;fill:#456e93;fill-opacity:1;stroke-width:1.27385;stroke-linecap:round"
+           d="m 3189.8485,1851.1719 a 6.36927,6.36927 0 0 0 6.3693,6.3692 c 22.0863,0 39.8527,17.7689 39.8527,39.8552 a 6.36927,6.36927 0 0 0 6.3693,6.3693 6.36927,6.36927 0 0 0 6.3693,-6.3693 c 0,-28.9707 -23.6206,-52.5937 -52.5913,-52.5937 a 6.36927,6.36927 0 0 0 -6.3693,6.3693 z"
+           id="path1396" />
+        <path
+           style="color:#000000;fill:#456e93;fill-opacity:1;stroke:none;stroke-width:1.27385;stroke-linecap:round"
+           d="m 3189.8485,1869.3566 a 6.36927,6.36927 0 0 0 6.3693,6.3693 c 12.0426,0 21.668,9.6279 21.668,21.6704 a 6.36927,6.36927 0 0 0 6.3692,6.3693 6.36927,6.36927 0 0 0 6.3693,-6.3693 c 0,-18.9269 -15.4795,-34.4089 -34.4065,-34.4089 a 6.36927,6.36927 0 0 0 -6.3693,6.3692 z"
+           id="path3724" />
+        <path
+           style="color:#000000;fill:#456e93;fill-opacity:1;stroke-width:1.27385;stroke-linecap:round"
+           d="m 3189.9896,1833.7406 a 6.36927,6.36927 0 0 0 6.3693,6.3693 c 31.1805,0 56.2286,24.7398 56.2286,55.3106 a 6.36927,6.36927 0 0 0 6.3693,6.3693 6.36927,6.36927 0 0 0 6.3693,-6.3693 c 0,-37.5578 -31.0035,-68.0491 -68.9672,-68.0491 a 6.36927,6.36927 0 0 0 -6.3693,6.3692 z"
+           id="path1402" />
+        <circle
+           style="fill:#456e93;fill-opacity:1;stroke:none;stroke-width:14.8348;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+           id="circle1404"
+           cx="2657.7559"
+           cy="2598.5056"
+           r="14.012394"
+           transform="rotate(-13.659357)" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:74.7601px;line-height:1.25;font-family:Arcon;-inkscape-font-specification:'Arcon, Normal';fill:#456e93;fill-opacity:1;stroke-width:1.86901"
+         x="-88.451241"
+         y="174.64429"
+         id="text9284"><tspan
+           sodipodi:role="line"
+           id="tspan9282"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:74.7601px;font-family:Opentalk-750;-inkscape-font-specification:'Opentalk-750, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#456e93;fill-opacity:1;stroke-width:1.86901"
+           x="-88.451241"
+           y="174.64429">Open <tspan
+   style="fill:#111c26;fill-opacity:1;stroke:none;stroke-opacity:1"
+   id="tspan10188">Podcast</tspan></tspan></text>
+    </g>
+  </g>
+</svg>
