@@ -11,7 +11,7 @@ See the [instructions][forwarder-instructions] in the forwarder repository.
 
 Coming soon...
 
-### Gateway
+### API
 
 Coming soon...
 

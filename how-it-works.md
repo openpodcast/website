@@ -9,7 +9,7 @@ Open Podcast consists of three main components:
 - [importer](https://github.com/openpodcast/spotify-importer): Fetches and
   imports metrics from platforms like Spotify and Apple Music to provide a
   consolidated data lake for analytical data.
-- gateway: A reference implementation of a server which collects fine-grained
+- [api]: A reference implementation of a server which collects fine-grained
   data from podfetchers that implement the Open Podcast API.
 
 The implementation has three parts and consists of:
@@ -24,7 +24,7 @@ concept of the respective component.
 
 ## Forwarder
 
-The prototype of the forwarder will be written in Rust. The reason is
+The prototype of the forwarder is written in Rust. The reason is
 that the forwarder can be deployed as an edge worker on platforms like
 Cloudflare or Fastly, which allows us to be very close to the Podcast platforms
 (Spotify, Apple,...) and at the same time not have to deal with deployments or
@@ -50,15 +50,16 @@ JavaScript/TypeScript in the future, we are inclined to write the importers in
 TypeScript. It is compatible with all major browser and provides a solid level
 of type safety.
 
-## Gateway
+## API
 
-The gateway is a plain metric collector.
+The gateway API is a plain metric collector.
 It just receives `POST` requests with metrics and forwards them to a
 database.
-We have not decided on a technology stack for it yet, but it should be
-straightforward to implement in any language. We will provide a reference
-implementation for testing purposes but the specification for accepted events
-will be more important than the actual language used for implementation.
-For the first proof of concept we might use an all in one solution like Posthog or Matomo.
+We provide a reference implementation for testing purposes but the specification
+for accepted events allows for alternative implementations.
+
+The API requires a database to store the metrics.
+See the instructions in the [api] repository for details.
 
 [forwarder]: https://github.com/openpodcast/forwarder
+[api]: https://github.com/openpodcast/api
