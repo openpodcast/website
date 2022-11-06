@@ -7,7 +7,7 @@
 
 - Installation
 
-  - [Cloudflare](/install.md)
+  - [Instructions](/install.md)
 
 - About Us
 
