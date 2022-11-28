@@ -12,7 +12,7 @@ such as Spotify. This triangle builds a solid analytical foundation for
 independent podcast hosts to compete with big players on the market.
 
  <video loop="true" autoplay="autoplay" controls="controls" muted>
-  <source src="https://user-images.githubusercontent.com/175809/201367272-aca3573e-9384-4498-813f-73a9e76a98e2.mp4" type="video/mp4">
+  <source src="_media/video.mp4" type="video/mp4">
 </video> 
 
 ## Basic Usage
