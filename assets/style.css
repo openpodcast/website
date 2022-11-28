@@ -1034,12 +1034,10 @@ pre:after {
   visibility: hidden;
 }
 
-/* @media (prefers-color-scheme: dark) {
-  .cover-main img {
-    filter: invert(1);
-  }
-} */
-
 .cover-main img {
   content: var(--docsify_logo_url);
+}
+
+video {
+  max-width: 100%;
 }
