@@ -2,6 +2,8 @@
 
 ## High-Level Overview
 
+![High-Level Overview](_media/architecture.png)
+
 Open Podcast consists of three main components:
 
 - [forwarder]: A proxy for podcast RSS feeds and audio files to collect
