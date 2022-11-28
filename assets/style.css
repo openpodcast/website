@@ -567,7 +567,7 @@ body.close .content {
     width: 25px;
     height: 25px;
     background-repeat: no-repeat;
-    background-image: var(--toogleImage);
+    background-image: var(--toggleImage);
     -o-background-size: cover;
     -moz-background-size: cover;
     -webkit-background-size: cover;
@@ -1020,7 +1020,7 @@ pre:after {
   width: 25px;
   height: 25px;
   background-repeat: no-repeat;
-  background-image: var(--toogleImage);
+  background-image: var(--toggleImage);
   -o-background-size: cover;
   -moz-background-size: cover;
   -webkit-background-size: cover;
@@ -1034,9 +1034,12 @@ pre:after {
   visibility: hidden;
 }
 
-/* TODO: Need to listen to the click event and change the logo */
 /* @media (prefers-color-scheme: dark) {
   .cover-main img {
     filter: invert(1);
   }
 } */
+
+.cover-main img {
+  content: var(--docsify_logo_url);
+}
