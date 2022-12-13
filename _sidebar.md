@@ -8,6 +8,7 @@
 - Installation
 
   - [Instructions](/install.md)
+  - [Beta-Program](/connect.md)
 
 - About Us
 
