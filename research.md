@@ -6,10 +6,12 @@
 
 ## Specifications
 
+Other entities have previously worked on specifications for podcasting. We list them here for reference.
+
 - [Open Downloads Specification](https://github.com/open-downloads/odl): Open Downloads Specification (ODL) is a specification for podcast download tracking. It is a simple JSON format that can be used to track downloads of podcast episodes.
 - [RSS Namespace Extension for Podcasting (Tag Specification)](https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md): A holistic RSS namespace for podcasting that is meant to synthesize the fragmented world of podcast namespaces.
 - [backtracks/open-podcast-analytics](https://github.com/backtracks/open-podcast-analytics): Open podcast analytics specification by backtracks. A unified spec for providing an open and common interface for sending podcast analytics related events.
-- [IAB Podcast Measurement Technical Guidelines](https://iabtechlab.com/standards/podcast-measurement-guidelines/): The IAB Podcast Measurement Technical Guidelines 2.1 are the result of the Podcast Technical Working Group’s efforts to provide clarity in the podcast marketplace by developing a common language around measurement. 
+- [IAB Podcast Measurement Technical Guidelines](https://iabtechlab.com/standards/podcast-measurement-guidelines/): The IAB Podcast Measurement Technical Guidelines 2.1 are the result of the Podcast Technical Working Group’s efforts to provide clarity in the podcast marketplace by developing a common language around measurement.
 - [National Public Radio (NPR) R.A.D. (Remote Audio Data)](https://docs.google.com/document/d/14W1M3RaNfv-3mzY0paTs1A_uZ5fITSvWbpMbIikdHxk/edit#heading=h.v2d91puyxzxq): NPR's Remote Audio Data (RAD) is a standard for podcast analytics. It is a JSON format embedded into mp3 files as ID3-tags that can be used to track downloads of podcast episodes.
 
 ## Standardization Process
@@ -23,13 +25,11 @@
 - [Für freie Podcasts, ohne Plattformen! (German)](https://web.archive.org/web/20210729163719/https://blogsnider.de/fuer-freie-podcasts-ohne-plattformen/): Spotify & Co. enrich themselves with the content of others and threaten the platform freedom of podcasts in the process.
 - [Will Spotify Ruin Podcasting?](https://news.ycombinator.com/item?id=22285569): A discussion on Hacker News about the state of podcasting and the lack of openness.
 
-# Technology
-
 ## Open Source Podcast Hosting
 
 - [podlove](https://podlove.org/): A podcast publishing platform, with a focus on open source and privacy.
 
-## Open Source Podcast Analytics
+## Open Source Podcast Analytics Solutions
 
 - [WDR-OKR](https://github.com/wdr-data/wdr-okr/): Prototype of a newsroom datastore; a podcast analytics tool by WDR which scrapes data from Spotify/Apple.
 
@@ -44,11 +44,9 @@
 
 ## Connectors
 
-### Spotify
-
 - [PHP Spotify Client](https://github.com/podcasthosting/podcast-client-spotify): Create, get status, update and remove podcasts on Spotify. Fetch analytics data.
 
-# Analytics
+## Analytics
 
 - [Podcast Index](https://podcastindex.org/): Podcast Index is a free, open, community-driven podcast search engine. It is a non-profit project, and is not affiliated with any other podcasting company or organization. Podcast Index is a free, open, community-driven podcast search engine. It is a non-profit project, and is not affiliated with any other podcasting company or organization.
 - [Podcast Analytics of some popular German podcasts](https://podcast-analysen.de/)
