@@ -1,3 +1,4 @@
+> [!TIP]
 > Throughout our research, we come across resources around podcast hosting, which
 > we collect here.
 > We mostly focus on open source software and discussions about the Podcast ecosystem,
