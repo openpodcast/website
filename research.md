@@ -9,6 +9,7 @@
 - [RSS Namespace Extension for Podcasting (Tag Specification)](https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md): A holistic RSS namespace for podcasting that is meant to synthesize the fragmented world of podcast namespaces.
 - [backtracks/open-podcast-analytics](https://github.com/backtracks/open-podcast-analytics): Open podcast analytics specification by backtracks. A unified spec for providing an open and common interface for sending podcast analytics related events.
 - [IAB Podcast Measurement Technical Guidelines](https://iabtechlab.com/standards/podcast-measurement-guidelines/): The IAB Podcast Measurement Technical Guidelines 2.1 are the result of the Podcast Technical Working Group’s efforts to provide clarity in the podcast marketplace by developing a common language around measurement. 
+- [National Public Radio (NPR) R.A.D. (Remote Audio Data)](https://docs.google.com/document/d/14W1M3RaNfv-3mzY0paTs1A_uZ5fITSvWbpMbIikdHxk/edit#heading=h.v2d91puyxzxq): NPR's Remote Audio Data (RAD) is a standard for podcast analytics. It is a JSON format embedded into mp3 files as ID3-tags that can be used to track downloads of podcast episodes.
 
 ## Standardization Process
 
