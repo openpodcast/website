@@ -21,5 +21,6 @@ If you are part of the beta program, follow those steps to connect your podcast:
 
 Login to https://podcasters.spotify.com/ using an account that can access the respective podcast.
 
+<div id="openpodcast-plugin">Open Podcast Analytics Plug-in not installed</div>
 
 WIP: Browser Plugin
