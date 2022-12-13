@@ -1,12 +1,33 @@
-## Installation
+# Installation
 
-You can set up all components of Open Podcast on your own infrastructure. The
-following sections describe how to do that.
+You can set up all components of Open Podcast on your own infrastructure!  
+The following sections describe how to do that.
+
+## Stack
+
+The easiest way to set up Open Podcast is to use our [stack] repository.
+It contains a Docker Compose file that sets up all components of Open Podcast
+and a script that runs the connectors as cron jobs.
+
+The following services are included in this repository:
+
+- [API]: The API that is used to store the data in the database
+- [Forwarder]: A proxy in front of your podcast host which forwards realtime RSS request data to the API
+- [Spotify-Connector]: The connector to fetch data from Spotify
+- [Apple-Connector]: The connector to fetch data from Apple
+- [Apple-Automation]: The automation to fetch a session cookie from Apple
+- [Metabase]: The analytics tool that is used to visualize the data
+- [MySQL]: The database
+
+## Individual Components
+
+Alternatively, you can set up each component individually.
+Find the instructions for each component below.
 
 ### Forwarder
 
 The forwarder runs as a Cloudflare worker.
-See the [instructions][forwarder-instructions] in the forwarder repository.
+See the [instructions][forwarder] in the forwarder repository.
 
 ### Connectors
 
@@ -34,6 +55,10 @@ The API requires a database to store the metrics.
 See the instructions in the [api] repository for details.
 
 [api]: https://github.com/openpodcast/api
-[forwarder-instructions]: https://github.com/openpodcast/forwarder
+[forwarder]: https://github.com/openpodcast/forwarder
 [spotify-connector]: https://github.com/openpodcast/spotify-connector
 [apple-connector]: https://github.com/openpodcast/apple-connector
+[metabase]: https://github.com/metabase/metabase
+[mysql]: https://hub.docker.com/_/mysql
+[apple-automation]: https://github.com/openpodcast/apple-automation
+[stack]: https://github.com/openpodcast/stack
