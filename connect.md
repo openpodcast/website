@@ -2,6 +2,16 @@
 
 If you are part of the beta program, follow those steps to connect your podcast:
 
+## Spotify
+
+Login to https://podcasters.spotify.com/ using an account that can access the respective podcast.
+
+<div id="openpodcast-plugin" style="color: red;">
+     Open Podcast Analytics extension not installed. Please, use Chrome and install the browser extension first.</br>
+     <a href="https://chrome.google.com/webstore/detail/openpodcast-extension/kdgmkjmggjefccigfbeidmaamhbfnkhh">Download and install the Open Podcast Analytics extension for Chrome</a>
+</div>
+
+
 ## Apple
 
 - Sign in to https://podcasters.apple.com/ using an account that can access the respective podcast and manage user access for the podcast.
@@ -16,12 +26,3 @@ If you are part of the beta program, follow those steps to connect your podcast:
 <img src="_media/apple1.png"
      alt="Apple form to grant access to user"
      style="padding: 5px; border: 1px solid;" />
-
-## Spotify
-
-Login to https://podcasters.spotify.com/ using an account that can access the respective podcast.
-
-<div id="openpodcast-plugin" style="color: red;">
-     Open Podcast Analytics extension not installed. Please, use Chrome and install the browser extension first.</br>
-     <a href="https://chrome.google.com/webstore/detail/openpodcast-extension/kdgmkjmggjefccigfbeidmaamhbfnkhh">Download and install the Open Podcast Analytics extension for Chrome</a>
-</div>
