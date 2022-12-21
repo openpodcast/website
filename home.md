@@ -27,7 +27,7 @@ and query it with SQL. We also provide a web interface to visualize the data.
 
 ## Basic Usage
 
-The easiest way to use the platform is to run the [stack] repository. It contains
+The easiest way to use the platform is to run the stack repository. It contains
 all components of Open Podcast and a script that runs the connectors as cron jobs.
 More information in our [installation guide](/install) ✨.
 
