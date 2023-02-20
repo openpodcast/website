@@ -12,6 +12,7 @@
 
 - About Us
 
+  - [Contact](/contact.md)
   - [Sponsoring](/sponsoring.md)
   - [Community](/community.md)
   - [Users](/users.md)
