@@ -1,6 +1,6 @@
 ![openpodcast](_media/logo.svg)
 
-> An open platform for podcast analytics
+> An Open Platform for Podcast Analytics
 
 - Privacy-first approach
 - Self-hosted
@@ -8,7 +8,7 @@
 
 [GitHub](https://github.com/openpodcast/)
 [Get Started](#main)
-[Our TOPP Podcast](/podcast)
+[Hosted version](https://openpodcast.app)
 
 <!-- background color -->
 
