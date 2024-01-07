@@ -1,6 +1,6 @@
 # Connect your podcast to Open Podcast Analytics
 
-If you are part of the beta program, follow those steps to connect your podcast:
+Follow those steps to connect your podcast with Open Podcast Analytics.
 
 ## Spotify
 
