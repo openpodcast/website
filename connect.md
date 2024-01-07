@@ -4,7 +4,7 @@ If you are part of the beta program, follow those steps to connect your podcast:
 
 ## Spotify
 
-Login to https://podcasters.spotify.com/ using an account that can access the respective podcast.
+Login to https://podcasters.spotify.com/dash using an account that can access the respective podcast.
 
 <div id="openpodcast-plugin" style="color: red; margin-bottom: 3em;">
      Open Podcast Analytics extension not installed. Please, use Chrome and install the browser extension first.</br>
